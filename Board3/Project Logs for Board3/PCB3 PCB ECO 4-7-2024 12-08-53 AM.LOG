@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=A4/SDA Pin=J3-1
+Removed Pin From Net: NetName=A5/SCL Pin=J3-2
+Removed Pin From Net: NetName=A4/SDA Pin=TP9a-1
+Removed Pin From Net: NetName=A5/SCL Pin=TP9b-1
+Added Pin To Net: NetName=A5/SCL Pin=J3-1
+Added Pin To Net: NetName=A4/SDA Pin=J3-2
+Added Pin To Net: NetName=A5/SCL Pin=TP9a-1
+Added Pin To Net: NetName=A4/SDA Pin=TP9b-1
+Added Member To Class: ClassName=Sheet3 Member=Component TP9b SCL

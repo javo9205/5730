@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=VIN Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=RST Pin=C13-2
+Removed Pin From Net: NetName=RST Pin=C15-2
+Removed Pin From Net: NetName=D1/TX Pin=J3-7
+Removed Pin From Net: NetName=D0/RX Pin=J3-8
+Removed Pin From Net: NetName=VIN Pin=J7-8
+Removed Pin From Net: NetName=VIN Pin=LED3-1
+Removed Pin From Net: NetName=NetC4_2 Pin=LED5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=VIN Pin=R9-2
+Removed Pin From Net: NetName=RST Pin=SW5-4
+Removed Pin From Net: NetName=PS Pin=TP1-1
+Removed Pin From Net: NetName=GND Pin=TP1-2
+Removed Pin From Net: NetName=GND Pin=TP1-2
+Removed Pin From Net: NetName=GND Pin=TP1-2
+Removed Pin From Net: NetName=+5V Pin=TP2-1
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Pin From Net: NetName=USB Pin=TP10-1
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=D+ Pin=U1-5
+Removed Pin From Net: NetName=D- Pin=U1-6
+Removed Pin From Net: NetName=XI Pin=U1-7
+Removed Pin From Net: NetName=XO Pin=U1-8
+Removed Pin From Net: NetName=D0/RX Pin=U2-30
+Removed Pin From Net: NetName=D1/TX Pin=U2-31
+Removed Member From Class: ClassName=Sheet3 Member=TP1
+Removed Member From Class: ClassName=Sheet3 Member=TP2
+Removed Member From Class: ClassName=Sheet3 Member=TP12
+Change Component Footprint: Designator=TP4 Old Footprint=TP_Diff_Probe New Footprint=TP10x_Probe
+Change Component Comment : Designator=LED3 Old Comment=Green New Comment=Red
+Change Component Comment : Designator=LED4 Old Comment=Green New Comment=Yellow
+Change Component Comment : Designator=SW3 Old Comment=SW_EN_CORE New Comment=SW_VCC
+Change Component Comment : Designator=TP4 Old Comment=TP_INRUSH New Comment=TP_5V
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED9
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW5 NewDesignator=BTN1
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP8b
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP6a
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP6b
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP7b
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP7a
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP8a
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "LED_1206"; UniqueID = "\FMYUGTFC" ("\FMYUGTFC")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED4" ("LED5"); Footprint = "LED_1206"; UniqueID = "\EFNZAIMJ" ("\EFNZAIMJ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206Y1_C93094.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93094"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "NCD1206Y1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206Y1_C93094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93094"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NCD1206Y1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206Y1_C93094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93094"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NCD1206Y1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(LDO)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C6187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IC REG LINEAR 5V 1A SOT223"; VariantName = "[No Variations]"
+Added Component: Designator=R4(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301438_UNI-ROYAL-Uniroyal-Elec-1206W4J050KT5E_C247433.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C247433"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4J050KT5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mOhm"; VariantName = "[No Variations]"
+Added Component: Designator=TP3a(TP10x_Probe)
+Added Component: Designator=TP3b(TP10x_Probe)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VIN Pin=C4-2
+Added Pin To Net: NetName=VIN Pin=LED4-1
+Added Pin To Net: NetName=+5V Pin=LED6-1
+Added Pin To Net: NetName=GND Pin=PS1-1
+Added Pin To Net: NetName=VIN Pin=PS1-2
+Added Pin To Net: NetName=VIN Pin=PS1-4
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=TP3a-2
+Added Pin To Net: NetName=GND Pin=TP3a-2
+Added Pin To Net: NetName=GND Pin=TP3a-2
+Added Pin To Net: NetName=GND Pin=TP3b-2
+Added Pin To Net: NetName=GND Pin=TP3b-2
+Added Pin To Net: NetName=GND Pin=TP3b-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Change Net Name : Old Net Name=D0/RX New Net Name=NetR7_1
+Change Net Name : Old Net Name=D1/TX New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED7_2
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED8_2
+Change Net Name : Old Net Name=NetLED8_2 New Net Name=NetLED9_2
+Change Net Name : Old Net Name=VIN New Net Name=NetC4_2
+Added Pin To Net: NetName=D0/RX Pin=J4-8
+Added Pin To Net: NetName=D0/RX Pin=U2-30
+Added Net: Name=D0/RX
+Added Pin To Net: NetName=D1/TX Pin=J4-7
+Added Pin To Net: NetName=D1/TX Pin=U2-31
+Added Net: Name=D1/TX
+Added Pin To Net: NetName=NetBTN1_4 Pin=BTN1-4
+Added Pin To Net: NetName=NetBTN1_4 Pin=C10-2
+Added Pin To Net: NetName=NetBTN1_4 Pin=C13-2
+Added Net: Name=NetBTN1_4
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R4-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R6-1
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SW1-2
+Added Pin To Net: NetName=NetR10_1 Pin=TP3a-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=VIN Pin=J6-8
+Added Net: Name=VIN
+Added Pin To Net: NetName=VS Pin=LED3-1
+Added Pin To Net: NetName=VS Pin=PS1-3
+Added Pin To Net: NetName=VS Pin=R10-2
+Added Pin To Net: NetName=VS Pin=TP3b-1
+Added Net: Name=VS
+Added Member To Class: ClassName=Sheet3 Member=Component LED9 Green
+Added Member To Class: ClassName=Sheet3 Member=Component PS1 AMS1117-5.0
+Added Member To Class: ClassName=Sheet3 Member=Component R13 1M
+Added Member To Class: ClassName=Sheet3 Member=Component TP3a In-rush current
+Added Member To Class: ClassName=Sheet3 Member=Component TP3b Differential TP
+Added Room: Name=Sheet3
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_10
+Added Rule: Name=Schematic Width Constraint_11

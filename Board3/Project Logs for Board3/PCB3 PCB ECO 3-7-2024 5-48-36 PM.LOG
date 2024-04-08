@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED8
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP11
+Added Component: Designator=LED2(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED6_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED7_2
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED8_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-1
+Added Net: Name=NetLED2_2
+Added Member To Class: ClassName=Sheet3 Member=Component LED8 Green
+Added Member To Class: ClassName=Sheet3 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R4 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R6 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R8 500m
+Added Member To Class: ClassName=Sheet3 Member=Component R12 1M

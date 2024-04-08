@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=A4/SDA Pin=TP9a-1
+Removed Pin From Net: NetName=A5/SCL Pin=TP9b-1
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=LED6 Old Comment=ON/OFF New Comment=White
+Change Component Comment : Designator=TP9a Old Comment=SCL New Comment=SCLA
+Change component parameters: Designator = "LED6" ("LED6"); Footprint = "LED_1206"; UniqueID = "\CSEZZTTY" ("\CSEZZTTY")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206W1_C130718.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C130718"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "NCD1206W1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "1206_Passive_Resitor"; UniqueID = "\RBRTTLLZ" ("\RBRTTLLZ")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A5/SCL Pin=TP9a-1
+Added Pin To Net: NetName=A4/SDA Pin=TP9b-1
+Added Member To Class: ClassName=Sheet3 Member=Component TP9a SCLA
+Added Member To Class: ClassName=Sheet3 Member=Component TP9b SDA

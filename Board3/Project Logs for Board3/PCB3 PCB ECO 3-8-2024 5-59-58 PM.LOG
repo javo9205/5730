@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+5V Pin=SW2-1
+Added Pin To Net: NetName=USB Pin=SW2-1

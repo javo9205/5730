@@ -1,0 +1,5 @@
+Change Component Comment : Designator=SW3 Old Comment=On/Off New Comment=SW_VCC
+Change Net Name : Old Net Name=V3 New Net Name=Vout
+Added Member To Class: ClassName=Sheet3 Member=Component J5 PPTC061LFBN-RC
+Added Member To Class: ClassName=Sheet3 Member=Component L1 FB_10uH_1206
+Change Rule Scope 1 : Old Scope=InNet('V3') New Scope=InNet('Vout')

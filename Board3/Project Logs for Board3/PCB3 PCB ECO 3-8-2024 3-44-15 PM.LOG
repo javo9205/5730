@@ -1,0 +1,25 @@
+Change Net Name : Old Net Name=NetC6_2 New Net Name=AVCC
+Added Member To Class: ClassName=Sheet3 Member=Component C4 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C5 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C6 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C7 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C10 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C12 22pF
+Added Member To Class: ClassName=Sheet3 Member=Component C14 22pF
+Added Member To Class: ClassName=Sheet3 Member=Component J4 PPTC081LFBN-RC
+Added Member To Class: ClassName=Sheet3 Member=Component J6 PPTC081LFBN-RC
+Added Member To Class: ClassName=Sheet3 Member=Component LED4 Yellow
+Added Member To Class: ClassName=Sheet3 Member=Component LED5 Yellow
+Added Member To Class: ClassName=Sheet3 Member=Component LED6 Yellow
+Added Member To Class: ClassName=Sheet3 Member=Component LED7 Blue
+Added Member To Class: ClassName=Sheet3 Member=Component R4 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R5 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R6 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R8 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R9 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R10 500m
+Added Member To Class: ClassName=Sheet3 Member=Component R11 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R12 1M
+Added Member To Class: ClassName=Sheet3 Member=Component TP9 TP_12MHz
+Added Member To Class: ClassName=Sheet3 Member=Component TP10 TP_16MHz
+Change Rule Scope 1 : Old Scope=InNet('NetC6_2') New Scope=InNet('AVCC')

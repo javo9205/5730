@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
+Added Member To Class: ClassName=Sheet3 Member=Component LED2 Red
+Added Member To Class: ClassName=Sheet3 Member=Component LED4 Green
+Added Member To Class: ClassName=Sheet3 Member=Component LED6 Blue
+Added Member To Class: ClassName=Sheet3 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R5 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R7 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R10 10k
+Added Member To Class: ClassName=Sheet3 Member=Component TP11 TP_12MHz

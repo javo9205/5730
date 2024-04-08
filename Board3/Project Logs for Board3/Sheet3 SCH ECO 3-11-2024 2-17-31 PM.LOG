@@ -1,0 +1,7 @@
+Change Component Comment: Designator=TP5 Old Comment=TP_3.3V New Comment=+3.3V
+Change Component Comment: Designator=TP4 Old Comment=TP_5V New Comment=+5V
+Change Component Comment: Designator=TP9 Old Comment=TP_12MHz New Comment=12MHz
+Change Component Comment: Designator=TP10 Old Comment=TP_16MHz New Comment=16MHz
+Change Component Comment: Designator=TP6a Old Comment=TP_RX_328 New Comment=328 RX
+Change Component Comment: Designator=TP6b Old Comment=TP_TX_328 New Comment=328 TX
+Change Component Comment: Designator=LED3 Old Comment=VCC New Comment=VIN

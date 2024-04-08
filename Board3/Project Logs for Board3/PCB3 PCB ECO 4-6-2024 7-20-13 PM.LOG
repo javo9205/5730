@@ -1,0 +1,7 @@
+Added Component: Designator=J?(USB_MINI_B)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/2103081233_Jing-Extension-of-the-Electronic-Co-920-462A2021D10102_C46398.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C46398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "920-462A2021D10102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB mini B"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet3 Member=Component J? USB Mini

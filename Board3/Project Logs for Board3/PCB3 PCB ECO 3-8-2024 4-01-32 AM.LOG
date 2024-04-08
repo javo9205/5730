@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=D11/MOSI Pin=J1-1
+Removed Pin From Net: NetName=D12/MISO Pin=J1-5
+Added Component: Designator=TP12(TP10x_Probe)
+Added Component: Designator=TP13(TP10x_Probe)
+Added Pin To Net: NetName=D11/MOSI Pin=J1-5
+Added Pin To Net: NetName=D11/MOSI Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=TP13-1
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sheet3 Member=Component TP12 TP_MOSI
+Added Member To Class: ClassName=Sheet3 Member=Component TP13 TP_MISO

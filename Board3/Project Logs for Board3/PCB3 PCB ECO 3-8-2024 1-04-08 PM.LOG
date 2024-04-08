@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VIN Pin=TP2-1
+Added Component: Designator=TP1(TP10x_Probe)
+Added Component: Designator=TP5(TP10x_Probe)
+Added Pin To Net: NetName=PS Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=+5V Pin=TP2-1
+Added Pin To Net: NetName=D12/MISO Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Member To Class: ClassName=Sheet3 Member=Component TP1 TP_VIN_PS
+Added Member To Class: ClassName=Sheet3 Member=Component TP5 TP_MOSI
+Added Room: Name=Sheet3

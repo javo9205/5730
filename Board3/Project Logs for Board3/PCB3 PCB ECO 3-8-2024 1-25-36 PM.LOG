@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=RST Pin=C4-2
+Removed Pin From Net: NetName=+5V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+5V Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=XTAL2 Pin=C10-2
+Removed Pin From Net: NetName=XTAL1 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=XO Pin=C12-2
+Removed Pin From Net: NetName=XI Pin=C14-1
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C4 NewDesignator=C12
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C10
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=XO Pin=C10-1
+Added Pin To Net: NetName=XTAL1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=XTAL2 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=RST Pin=C15-2
+Added Member To Class: ClassName=Sheet3 Member=Component C8 22uF
+Added Member To Class: ClassName=Sheet3 Member=Component C14 22pF
+Added Member To Class: ClassName=Sheet3 Member=Component C15 1uF
+Added Room: Name=Sheet3
+Added Rule: Name=Schematic Width Constraint_6

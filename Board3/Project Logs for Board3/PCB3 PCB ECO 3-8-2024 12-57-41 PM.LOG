@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=+5V Pin=C4-2
+Removed Pin From Net: NetName=+5V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=XI Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=XTAL2 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=RST Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=XO Pin=C14-2
+Removed Pin From Net: NetName=XTAL1 Pin=C15-2
+Removed Pin From Net: NetName=D- Pin=D1-1
+Removed Pin From Net: NetName=D+ Pin=D1-3
+Removed Pin From Net: NetName=D12/MISO Pin=J1-1
+Removed Pin From Net: NetName=D11/MOSI Pin=J1-5
+Removed Pin From Net: NetName=+5V Pin=L1-1
+Removed Pin From Net: NetName=+5V Pin=LED5-1
+Removed Pin From Net: NetName=GND Pin=PS1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=PS1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=PS1-4
+Removed Pin From Net: NetName=NetC2_2 Pin=SW1-1
+Removed Pin From Net: NetName=USB Pin=TP5-1
+Removed Pin From Net: NetName=XTAL2 Pin=TP10-1
+Removed Pin From Net: NetName=D11/MOSI Pin=TP12-1
+Removed Pin From Net: NetName=D12/MISO Pin=TP13-1
+Removed Member From Class: ClassName=Sheet3 Member=PS1
+Removed Member From Class: ClassName=Sheet3 Member=SW1
+Change Component Comment : Designator=C12 Old Comment=1uF New Comment=22pF
+Change Component Comment : Designator=C15 Old Comment=22uF New Comment=1uF
+Change Component Comment : Designator=C10 Old Comment=22uF New Comment=22pF
+Change Component Comment : Designator=C11 Old Comment=22uF New Comment=22pF
+Change Component Comment : Designator=C14 Old Comment=22uF New Comment=22pF
+Change Component Comment : Designator=SW2 Old Comment=SW_VIN_SEL New Comment=SW_VIN_SELECT
+Change Component Comment : Designator=TP10 Old Comment=TP_16MHz New Comment=TP_USB_VIN
+Change Component Comment : Designator=TP12 Old Comment=TP_MOSI New Comment=TP_16MHz
+Change Component Comment : Designator=TP5 Old Comment=TP_VIN_USB New Comment=TP_MOSI
+Change component parameters: Designator = "C10" ("C10"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\KREOJUZY" ("\KREOJUZY")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\NKKDDYID" ("\NKKDDYID")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\KJHPMONW" ("\KJHPMONW")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\MULXDQTG" ("\MULXDQTG")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\YYXLVSVZ" ("\YYXLVSVZ")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=304982366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C1848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31B105KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=XO Pin=C10-1
+Added Pin To Net: NetName=XTAL1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=XI Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=XTAL2 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=RST Pin=C15-2
+Added Pin To Net: NetName=D+ Pin=D1-4
+Added Pin To Net: NetName=D- Pin=D1-6
+Added Pin To Net: NetName=D11/MOSI Pin=J1-1
+Added Pin To Net: NetName=D12/MISO Pin=J1-5
+Added Pin To Net: NetName=NetC2_2 Pin=J7-8
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R9-2
+Added Pin To Net: NetName=NetC2_2 Pin=TP4-1
+Added Pin To Net: NetName=D12/MISO Pin=TP5-1
+Added Pin To Net: NetName=USB Pin=TP10-1
+Added Pin To Net: NetName=XTAL2 Pin=TP12-1
+Added Pin To Net: NetName=D11/MOSI Pin=TP13-1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VIN
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-1
+Added Pin To Net: NetName=NetC4_2 Pin=LED5-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-18
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=SW4-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-16
+Added Net: Name=NetC9_2
+Added Room: Name=Sheet3
+Added Rule: Name=Schematic Width Constraint_8
+Change Rule Scope 1 : Old Scope=InNet('NetC9_1') New Scope=InNet('NetC9_2')

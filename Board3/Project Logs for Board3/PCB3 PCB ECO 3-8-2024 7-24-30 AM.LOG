@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=J7-5
+Added Pin To Net: NetName=+5V Pin=J7-5
+Added Member To Class: ClassName=Sheet3 Member=Component TP6 TP_RX_328
+Added Member To Class: ClassName=Sheet3 Member=Component TP7 TP_TX_328
+Added Member To Class: ClassName=Sheet3 Member=Component TP11 TP_12MHz
+Added Member To Class: ClassName=Sheet3 Member=Component TP12 TP_MOSI
+Added Member To Class: ClassName=Sheet3 Member=Component TP13 TP_MISO

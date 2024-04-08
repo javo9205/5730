@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=A0 Pin=J5-1
+Removed Pin From Net: NetName=A1 Pin=J5-2
+Removed Pin From Net: NetName=A2 Pin=J5-3
+Removed Pin From Net: NetName=A3 Pin=J5-4
+Removed Pin From Net: NetName=A4/SDA Pin=J5-5
+Removed Pin From Net: NetName=A5/SCL Pin=J5-6
+Removed Pin From Net: NetName=NetC6_2 Pin=L1-1
+Removed Pin From Net: NetName=+5V Pin=L1-2
+Removed Pin From Net: NetName=D13/SCK Pin=LED9-1
+Removed Member From Class: ClassName=Sheet3 Member=J5
+Removed Member From Class: ClassName=Sheet3 Member=L1
+Added Component: Designator=J?(6_PIN_ARD-Analog_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=L?(AIML-1206_ABR-M)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "CMI321609X100KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=J?-1
+Added Pin To Net: NetName=A1 Pin=J?-2
+Added Pin To Net: NetName=A2 Pin=J?-3
+Added Pin To Net: NetName=A3 Pin=J?-4
+Added Pin To Net: NetName=A4/SDA Pin=J?-5
+Added Pin To Net: NetName=A5/SCL Pin=J?-6
+Added Pin To Net: NetName=NetC6_2 Pin=L?-1
+Added Pin To Net: NetName=+5V Pin=L?-2
+Added Pin To Net: NetName=RST Pin=LED9-1
+Added Pin To Net: NetName=D+ Pin=U1-5
+Added Pin To Net: NetName=D- Pin=U1-6
+Added Pin To Net: NetName=XI Pin=U1-7
+Added Pin To Net: NetName=XO Pin=U1-8
+Added Pin To Net: NetName=ADC6 Pin=U2-19
+Added Net: Name=ADC6
+Added Pin To Net: NetName=ADC7 Pin=U2-22
+Added Net: Name=ADC7
+Added Member To Class: ClassName=Sheet3 Member=Component J? PPTC061LFBN-RC
+Added Member To Class: ClassName=Sheet3 Member=Component L? FB_10uH_1206

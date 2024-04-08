@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetC1_2 New Net Name=PS
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=USB
+Change Net Name : Old Net Name=NetPS1_3 New Net Name=VIN
+Change Rule Scope 1 : Old Scope=InNet('NetC1_2') New Scope=InNet('PS')
+Change Rule Scope 1 : Old Scope=InNet('NetJ2_1') New Scope=InNet('USB')
+Change Rule Scope 1 : Old Scope=InNet('NetPS1_3') New Scope=InNet('VIN')

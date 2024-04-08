@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=5V LDO NewDesignator=SW1
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=Sheet3 Member=Component SW1 SW_5V_LDO_BYPASS

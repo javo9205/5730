@@ -1,0 +1,8 @@
+Added Component: Designator=J?(AMPHENOL_10118194-0001LF)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/10118194.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey link"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-fci/10118194-0001LF/2785389?s=N4IgTCBcDaIAQEYAMCEA4EE4AsBaJBCAMgGJwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C132563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "10118194-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet3 Member=Component J? J_USB_B_Micro

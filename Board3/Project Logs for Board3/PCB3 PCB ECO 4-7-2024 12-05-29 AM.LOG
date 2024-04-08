@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=A4/SDA Pin=TP9a-1
+Removed Pin From Net: NetName=A5/SCL Pin=TP9b-1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=R_10KOhm_1206 New DesignItemId=R_1K_1206
+Change Component Comment : Designator=LED6 Old Comment=ON/OFF New Comment=White
+Change Component Designator: OldDesignator=TP9a NewDesignator=TP9b
+Change Component Designator: OldDesignator=TP9b NewDesignator=TP9a
+Change Component Description : Designator=R6 Old Description=10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film New Description=CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS
+Change component parameters: Designator = "R6" ("R6"); Footprint = "1206_Passive_Resitor"; UniqueID = "\RBRTTLLZ" ("\RBRTTLLZ")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A4/SDA Pin=TP9a-1
+Added Pin To Net: NetName=A5/SCL Pin=TP9b-1

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=XI Pin=TP9-1
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=XTAL2 Pin=TP10-1
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Change Component Footprint: Designator=TP9 Old Footprint=TP10x_Probe New Footprint=TP10x_Floating
+Change Component Footprint: Designator=TP10 Old Footprint=TP10x_Probe New Footprint=TP10x_Floating
+Added Pin To Net: NetName=XO Pin=TP9-1
+Added Pin To Net: NetName=XI Pin=TP9-4
+Added Pin To Net: NetName=XTAL1 Pin=TP10-1
+Added Pin To Net: NetName=XTAL2 Pin=TP10-4

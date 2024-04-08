@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR8_1
+Added Member To Class: ClassName=Sheet3 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R5 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R7 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R8 500m

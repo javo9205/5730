@@ -1,0 +1,15 @@
+Change Component Comment: Designator=LED7 Old Comment=Blue New Comment=RX
+Change Component Comment: Designator=LED8 Old Comment=Blue New Comment=TX
+Change Component Comment: Designator=TP3b Old Comment=Differential TP New Comment=50O-
+Change Component Comment: Designator=LED9 Old Comment=Green New Comment=SCK
+Change Component Comment: Designator=TP3a Old Comment=In-rush current New Comment=50O+
+Change Component Comment: Designator=LED1 Old Comment=Red New Comment=Power
+Change Component Comment: Designator=LED2 Old Comment=Red New Comment=USB
+Change Component Comment: Designator=LED3 Old Comment=Red New Comment=VCC
+Change Component Comment: Designator=SW2 Old Comment=SW_EN_USB New Comment=SW_USB
+Change Component Comment: Designator=SW1 Old Comment=SW_VIN_SELECT New Comment=SW_V_SELECT
+Change Component Comment: Designator=TP7b Old Comment=TP_D+ New Comment=D+
+Change Component Comment: Designator=TP7a Old Comment=TP_D- New Comment=D-
+Change Component Comment: Designator=LED5 Old Comment=Yellow New Comment=+3.3V
+Change Component Comment: Designator=LED4 Old Comment=Yellow New Comment=+5V
+Change Component Comment: Designator=LED6 Old Comment=Yellow New Comment=ON/OFF
